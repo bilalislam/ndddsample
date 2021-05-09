@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/IoC
+END
+MessageHandlerRegister.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/IoC/MessageHandlerRegister.cs
+END
+ContainerBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/IoC/ContainerBuilder.cs
+END

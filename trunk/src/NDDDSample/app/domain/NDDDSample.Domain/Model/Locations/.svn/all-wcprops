@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Locations
+END
+ILocationRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Locations/ILocationRepository.cs
+END
+UnLocode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Locations/UnLocode.cs
+END
+Location.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Locations/Location.cs
+END
+SampleLocations.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Locations/SampleLocations.cs
+END

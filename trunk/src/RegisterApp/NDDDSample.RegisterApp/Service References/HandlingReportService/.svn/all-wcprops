@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/137/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/135/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/configuration.svcinfo
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/137/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/Reference.cs
+END
+HandlingReportServiceFacade.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/96/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/HandlingReportServiceFacade.xsd
+END
+HandlingReportServiceFacade1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/135/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/HandlingReportServiceFacade1.xsd
+END
+HandlingReportServiceFacade2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/96/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/HandlingReportServiceFacade2.xsd
+END
+HandlingReportServiceFacade3.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/135/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/HandlingReportServiceFacade3.xsd
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/135/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/135/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/configuration91.svcinfo
+END
+HandlingReportService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/135/trunk/src/RegisterApp/NDDDSample.RegisterApp/Service%20References/HandlingReportService/HandlingReportService.wsdl
+END

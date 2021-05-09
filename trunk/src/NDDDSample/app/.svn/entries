@@ -1,0 +1,43 @@
+10
+
+dir
+142
+http://ndddsample.googlecode.com/svn/trunk/src/NDDDSample/app
+http://ndddsample.googlecode.com/svn
+
+
+
+2010-12-10T14:30:55.110546Z
+142
+arturtv
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8496d0c4-1a5a-11de-9308-ab3afd9c0aba
+
+infrastructure
+dir
+
+application
+dir
+
+interfaces
+dir
+
+domain
+dir
+
+presentation
+dir
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos
+END
+TransportStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/TransportStatus.cs
+END
+HandlingActivity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/HandlingActivity.cs
+END
+Delivery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/Delivery.cs
+END
+CargoFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/CargoFactory.cs
+END
+ICargoRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/ICargoRepository.cs
+END
+Itinerary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/Itinerary.cs
+END
+Leg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/Leg.cs
+END
+Cargo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/Cargo.cs
+END
+RoutingStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/RoutingStatus.cs
+END
+RouteSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/RouteSpecification.cs
+END
+TrackingId.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Cargos/TrackingId.cs
+END

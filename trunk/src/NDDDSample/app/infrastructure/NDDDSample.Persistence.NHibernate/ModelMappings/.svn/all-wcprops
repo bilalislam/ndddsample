@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/ModelMappings
+END
+Voyage.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/ModelMappings/Voyage.hbm.xml
+END
+Cargo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/ModelMappings/Cargo.hbm.xml
+END
+CarrierMovement.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/ModelMappings/CarrierMovement.hbm.xml
+END
+HandlingEvent.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/ModelMappings/HandlingEvent.hbm.xml
+END
+Leg.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/ModelMappings/Leg.hbm.xml
+END
+Location.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/ModelMappings/Location.hbm.xml
+END

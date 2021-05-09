@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared
+END
+ISpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/ISpecification.cs
+END
+IValueObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/IValueObject.cs
+END
+DomainObjectUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/DomainObjectUtils.cs
+END
+OrSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/OrSpecification.cs
+END
+NotSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/NotSpecification.cs
+END
+IDomainEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/IDomainEvent.cs
+END
+AndSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/AndSpecification.cs
+END
+AbstractSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/AbstractSpecification.cs
+END
+IEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/IEntity.cs
+END
+Enumeration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Shared/Enumeration.cs
+END

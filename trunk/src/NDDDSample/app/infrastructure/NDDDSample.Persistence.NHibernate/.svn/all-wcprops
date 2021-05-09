@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate
+END
+LocationRepositoryHibernate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/LocationRepositoryHibernate.cs
+END
+VoyageRepositoryHibernate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/VoyageRepositoryHibernate.cs
+END
+CargoRepositoryHibernate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/CargoRepositoryHibernate.cs
+END
+HibernateRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/HibernateRepository.cs
+END
+NDDDSample.Persistence.NHibernate.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/NDDDSample.Persistence.NHibernate.csproj
+END
+HandlingEventRepositoryHibernate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/HandlingEventRepositoryHibernate.cs
+END

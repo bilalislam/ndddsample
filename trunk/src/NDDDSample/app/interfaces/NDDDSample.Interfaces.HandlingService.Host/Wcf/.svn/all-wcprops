@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/Wcf
+END
+UnitOfWorkBehavior.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/Wcf/UnitOfWorkBehavior.cs
+END
+UnitOfWorkContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/Wcf/UnitOfWorkContext.cs
+END
+LifestyleMessageAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/Wcf/LifestyleMessageAction.cs
+END

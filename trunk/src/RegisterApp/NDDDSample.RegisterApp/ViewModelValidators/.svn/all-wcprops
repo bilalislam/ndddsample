@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/101/trunk/src/RegisterApp/NDDDSample.RegisterApp/ViewModelValidators
+END
+HandlingReportViewModelValidator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/101/trunk/src/RegisterApp/NDDDSample.RegisterApp/ViewModelValidators/HandlingReportViewModelValidator.cs
+END
+ValidationFailure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/100/trunk/src/RegisterApp/NDDDSample.RegisterApp/ViewModelValidators/ValidationFailure.cs
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/77/trunk/lib/Rhino
+END
+Boo.Lang.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/trunk/lib/Rhino/Boo.Lang.dll
+END
+Castle.Windsor.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/44/trunk/lib/Rhino/Castle.Windsor.dll
+END
+Rhino.DSL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/trunk/lib/Rhino/Rhino.DSL.dll
+END
+Castle.Services.Logging.Log4netIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/77/trunk/lib/Rhino/Castle.Services.Logging.Log4netIntegration.dll
+END
+Castle.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/44/trunk/lib/Rhino/Castle.Core.dll
+END
+Castle.Facilities.WcfIntegration.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/77/trunk/lib/Rhino/Castle.Facilities.WcfIntegration.pdb
+END
+Iesi.Collections.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/44/trunk/lib/Rhino/Iesi.Collections.dll
+END
+Rhino.Commons.NHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/44/trunk/lib/Rhino/Rhino.Commons.NHibernate.dll
+END
+Rhino.Commons.Clr.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/trunk/lib/Rhino/Rhino.Commons.Clr.dll
+END
+Boo.Lang.Compiler.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/trunk/lib/Rhino/Boo.Lang.Compiler.dll
+END
+Castle.Facilities.WcfIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/77/trunk/lib/Rhino/Castle.Facilities.WcfIntegration.dll
+END
+Castle.Facilities.Logging.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/77/trunk/lib/Rhino/Castle.Facilities.Logging.dll
+END
+log4net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/44/trunk/lib/Rhino/log4net.dll
+END
+Castle.Facilities.AutomaticTransactionManagement.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/44/trunk/lib/Rhino/Castle.Facilities.AutomaticTransactionManagement.dll
+END
+NHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/44/trunk/lib/Rhino/NHibernate.dll
+END
+Castle.Services.Transaction.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/trunk/lib/Rhino/Castle.Services.Transaction.dll
+END
+Castle.DynamicProxy2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/trunk/lib/Rhino/Castle.DynamicProxy2.dll
+END
+Castle.Components.Validator.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/trunk/lib/Rhino/Castle.Components.Validator.dll
+END
+Rhino.Commons.Binsor.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/44/trunk/lib/Rhino/Rhino.Commons.Binsor.dll
+END
+Castle.MicroKernel.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/trunk/lib/Rhino/Castle.MicroKernel.dll
+END
+NHibernate.ByteCode.Castle.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/44/trunk/lib/Rhino/NHibernate.ByteCode.Castle.dll
+END
+Rhino.Commons.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/44/trunk/lib/Rhino/Rhino.Commons.dll
+END
+Boo.Lang.Parser.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/44/trunk/lib/Rhino/Boo.Lang.Parser.dll
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/trunk/lib/Rhino/System.Data.SQLite.DLL
+END
+Boo.Lang.Extensions.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/44/trunk/lib/Rhino/Boo.Lang.Extensions.dll
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/96/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Persistence/Inmemory
+END
+HandlingEventRepositoryInMem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/96/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Persistence/Inmemory/HandlingEventRepositoryInMem.cs
+END
+LocationRepositoryInMem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/96/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Persistence/Inmemory/LocationRepositoryInMem.cs
+END
+VoyageRepositoryInMem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/96/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Persistence/Inmemory/VoyageRepositoryInMem.cs
+END
+CargoRepositoryInMem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/96/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Persistence/Inmemory/CargoRepositoryInMem.cs
+END

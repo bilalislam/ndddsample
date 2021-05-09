@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/136/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService/WebService
+END
+HandlingReportException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService/WebService/HandlingReportException.cs
+END
+HandlingReport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService/WebService/HandlingReport.cs
+END
+HandlingReportService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/136/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService/WebService/HandlingReportService.cs
+END
+IHandlingReportService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService/WebService/IHandlingReportService.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/102/trunk/src/RegisterApp/NDDDSample.RegisterApp/Views
+END
+RegisterApp.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/src/RegisterApp/NDDDSample.RegisterApp/Views/RegisterApp.xaml
+END
+RegisterApp.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/96/trunk/src/RegisterApp/NDDDSample.RegisterApp/Views/RegisterApp.xaml.cs
+END
+IMessageBoxCreator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101/trunk/src/RegisterApp/NDDDSample.RegisterApp/Views/IMessageBoxCreator.cs
+END
+MessageBoxCreator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101/trunk/src/RegisterApp/NDDDSample.RegisterApp/Views/MessageBoxCreator.cs
+END

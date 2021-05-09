@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/111/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Builders
+END
+ToStringBuilderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Builders/ToStringBuilderTest.cs
+END
+EqualsBuilderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Builders/EqualsBuilderTest.cs
+END
+BitConverterUtilTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/111/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Builders/BitConverterUtilTest.cs
+END
+HashCodeBuilderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Builders/HashCodeBuilderTest.cs
+END
+MathUtilTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/111/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure/Builders/MathUtilTest.cs
+END

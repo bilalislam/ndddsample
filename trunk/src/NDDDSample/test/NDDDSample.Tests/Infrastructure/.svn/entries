@@ -1,0 +1,40 @@
+10
+
+dir
+142
+http://ndddsample.googlecode.com/svn/trunk/src/NDDDSample/test/NDDDSample.Tests/Infrastructure
+http://ndddsample.googlecode.com/svn
+
+
+
+2009-12-22T09:05:30.684722Z
+111
+artur.trosin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8496d0c4-1a5a-11de-9308-ab3afd9c0aba
+
+Persistence
+dir
+
+Routing
+dir
+
+Builders
+dir
+
+Messaging
+dir
+

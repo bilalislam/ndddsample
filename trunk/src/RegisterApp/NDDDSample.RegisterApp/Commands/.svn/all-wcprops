@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/src/RegisterApp/NDDDSample.RegisterApp/Commands
+END
+CompositeCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/102/trunk/src/RegisterApp/NDDDSample.RegisterApp/Commands/CompositeCommand.cs
+END
+HandlingReportCommands.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/102/trunk/src/RegisterApp/NDDDSample.RegisterApp/Commands/HandlingReportCommands.cs
+END
+DelegateCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/102/trunk/src/RegisterApp/NDDDSample.RegisterApp/Commands/DelegateCommand.cs
+END

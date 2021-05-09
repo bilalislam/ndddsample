@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 111
+_ReSharper.NDDDSample.Domain
+bin
+obj
+*.Domain.suo
+*.resharper
+*.Domain.4.1.resharper.user
+*.Domain.csproj.user
+
+END

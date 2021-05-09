@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/110/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Infrastructure/Builders
+END
+BitConverterUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/110/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Infrastructure/Builders/BitConverterUtil.cs
+END
+HashCodeBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Infrastructure/Builders/HashCodeBuilder.cs
+END
+MathUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Infrastructure/Builders/MathUtil.cs
+END
+ToStringBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Infrastructure/Builders/ToStringBuilder.cs
+END
+EqualsBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Infrastructure/Builders/EqualsBuilder.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/105/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin
+END
+RegistrationCommandBinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin/RegistrationCommandBinder.cs
+END
+PickNewDestinationViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin/PickNewDestinationViewModel.cs
+END
+SelectItineraryViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin/SelectItineraryViewModel.cs
+END
+LegCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin/LegCommand.cs
+END
+CargoAdminController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/105/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin/CargoAdminController.cs
+END
+RegistrationCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin/RegistrationCommand.cs
+END
+RegistrationFormViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/CargoAdmin/RegistrationFormViewModel.cs
+END

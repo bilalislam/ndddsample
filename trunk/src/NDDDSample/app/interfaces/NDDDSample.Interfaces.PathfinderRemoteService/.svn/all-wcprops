@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService
+END
+GraphDAO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService/GraphDAO.cs
+END
+GraphTraversalService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService/GraphTraversalService.cs
+END
+NDDDSample.Interfaces.PathfinderRemoteService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService/NDDDSample.Interfaces.PathfinderRemoteService.csproj
+END

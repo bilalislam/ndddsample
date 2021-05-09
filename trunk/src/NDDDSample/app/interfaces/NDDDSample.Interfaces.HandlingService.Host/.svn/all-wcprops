@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/hibernate.cfg.xml
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/App.config
+END
+Windsor.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/Windsor.config
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/Program.cs
+END
+NDDDSample.Interfaces.HandlingService.Host.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.HandlingService.Host/NDDDSample.Interfaces.HandlingService.Host.csproj
+END

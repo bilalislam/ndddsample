@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/Dto
+END
+RouteCandidateDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/Dto/RouteCandidateDTO.cs
+END
+CargoRoutingDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/Dto/CargoRoutingDTO.cs
+END
+LegDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/Dto/LegDTO.cs
+END
+LocationDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/Dto/LocationDTO.cs
+END

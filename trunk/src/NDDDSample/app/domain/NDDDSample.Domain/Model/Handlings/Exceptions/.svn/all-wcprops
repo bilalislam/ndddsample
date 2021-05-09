@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Handlings/Exceptions
+END
+UnknownLocationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Handlings/Exceptions/UnknownLocationException.cs
+END
+UnknownVoyageException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Handlings/Exceptions/UnknownVoyageException.cs
+END
+UnknownCargoException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Handlings/Exceptions/UnknownCargoException.cs
+END
+CannotCreateHandlingEventException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/domain/NDDDSample.Domain/Model/Handlings/Exceptions/CannotCreateHandlingEventException.cs
+END

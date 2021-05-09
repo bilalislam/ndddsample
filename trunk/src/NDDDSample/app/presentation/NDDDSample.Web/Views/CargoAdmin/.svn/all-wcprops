@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/CargoAdmin
+END
+RegistrationForm.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/CargoAdmin/RegistrationForm.aspx
+END
+Show.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/CargoAdmin/Show.aspx
+END
+PickNewDestination.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/CargoAdmin/PickNewDestination.aspx
+END
+SelectItinerary.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/CargoAdmin/SelectItinerary.aspx
+END
+List.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/CargoAdmin/List.aspx
+END

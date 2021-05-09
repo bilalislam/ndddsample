@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Voyages
+END
+CarrierMovementTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Voyages/CarrierMovementTest.cs
+END
+VoyageNumberTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Voyages/VoyageNumberTest.cs
+END
+VoyageTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Voyages/VoyageTest.cs
+END
+ScheduleTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Voyages/ScheduleTest.cs
+END

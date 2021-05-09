@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService.Common
+END
+TransitPath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService.Common/TransitPath.cs
+END
+NDDDRemotePathfinderException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService.Common/NDDDRemotePathfinderException.cs
+END
+TransitEdge.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService.Common/TransitEdge.cs
+END
+NDDDSample.Interfaces.PathfinderRemoteService.Common.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService.Common/NDDDSample.Interfaces.PathfinderRemoteService.Common.csproj
+END
+IGraphTraversalService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.PathfinderRemoteService.Common/IGraphTraversalService.cs
+END

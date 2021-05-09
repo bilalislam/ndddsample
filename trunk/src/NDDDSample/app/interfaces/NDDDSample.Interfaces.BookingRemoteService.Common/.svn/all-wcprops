@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common
+END
+NDDDRemoteBookingException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/NDDDRemoteBookingException.cs
+END
+NDDDSample.Interfaces.BookingRemoteService.Common.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/NDDDSample.Interfaces.BookingRemoteService.Common.csproj
+END
+IBookingServiceFacade.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/interfaces/NDDDSample.Interfaces.BookingRemoteService.Common/IBookingServiceFacade.cs
+END

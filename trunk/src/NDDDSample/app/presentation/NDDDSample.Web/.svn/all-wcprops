@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web
+END
+Windsor.config
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Windsor.config
+END
+NDDDSample Web.url
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/121/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/NDDDSample%20Web.url
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Global.asax
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/hibernate.cfg.xml
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Default.aspx
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Global.asax.cs
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Web.config
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Default.aspx.cs
+END
+NDDDSample.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/NDDDSample.Web.csproj
+END

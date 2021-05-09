@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Handlings
+END
+HandlingEventFactoryTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Handlings/HandlingEventFactoryTest.cs
+END
+HandlingEventTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Handlings/HandlingEventTest.cs
+END
+HandlingHistoryTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Domain/Model/Handlings/HandlingHistoryTest.cs
+END

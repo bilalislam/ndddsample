@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Presentation/CargoAdmin
+END
+CargoAdminControllerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Presentation/CargoAdmin/CargoAdminControllerTest.cs
+END
+RegistrationCommandTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/106/trunk/src/NDDDSample/test/NDDDSample.Tests/Presentation/CargoAdmin/RegistrationCommandTest.cs
+END

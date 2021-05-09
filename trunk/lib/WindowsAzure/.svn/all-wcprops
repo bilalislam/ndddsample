@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/140/trunk/lib/WindowsAzure
+END
+Microsoft.WindowsAzure.StorageClient.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.StorageClient.dll
+END
+Microsoft.WindowsAzure.ServiceRuntime.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.ServiceRuntime.dll
+END
+Microsoft.WindowsAzure.CloudDrive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.CloudDrive.xml
+END
+Microsoft.WindowsAzure.Diagnostics.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.Diagnostics.dll
+END
+Microsoft.WindowsAzure.StorageClient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.StorageClient.xml
+END
+Microsoft.WindowsAzure.ServiceRuntime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.ServiceRuntime.xml
+END
+Microsoft.WindowsAzure.Diagnostics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.Diagnostics.xml
+END
+Microsoft.WindowsAzure.CloudDrive.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/140/trunk/lib/WindowsAzure/Microsoft.WindowsAzure.CloudDrive.dll
+END

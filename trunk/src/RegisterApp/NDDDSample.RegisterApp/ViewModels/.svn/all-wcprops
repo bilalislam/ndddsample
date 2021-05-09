@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/136/trunk/src/RegisterApp/NDDDSample.RegisterApp/ViewModels
+END
+ViewModelBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/100/trunk/src/RegisterApp/NDDDSample.RegisterApp/ViewModels/ViewModelBase.cs
+END
+HandlingReportViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/136/trunk/src/RegisterApp/NDDDSample.RegisterApp/ViewModels/HandlingReportViewModel.cs
+END

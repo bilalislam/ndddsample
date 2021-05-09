@@ -1,0 +1,52 @@
+10
+
+dir
+142
+http://ndddsample.googlecode.com/svn/trunk/src/NDDDSample/app/interfaces
+http://ndddsample.googlecode.com/svn
+
+
+
+2010-12-10T14:30:55.110546Z
+142
+arturtv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8496d0c4-1a5a-11de-9308-ab3afd9c0aba
+
+NDDDSample.Interfaces.HandlingService
+dir
+
+NDDDSample.Interfaces.BookingRemoteService
+dir
+
+NDDDSample.Interfaces.PathfinderRemoteService.Common
+dir
+
+NDDDSample.Interfaces.BookingRemoteService.Common
+dir
+
+NDDDSample.Interfaces.PathfinderRemoteService.Host
+dir
+
+NDDDSample.Interfaces.HandlingService.Host
+dir
+
+NDDDSample.Interfaces.PathfinderRemoteService
+dir
+
+NDDDSample.Interfaces.BookingRemoteService.Host
+dir
+

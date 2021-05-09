@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/TypeConverters
+END
+RoutingStatusConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/TypeConverters/RoutingStatusConverter.cs
+END
+TransportStatusConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/TypeConverters/TransportStatusConverter.cs
+END
+HandlingTypeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/TypeConverters/HandlingTypeConverter.cs
+END
+EnumerationTypeConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/infrastructure/NDDDSample.Persistence.NHibernate/TypeConverters/EnumerationTypeConverter.cs
+END

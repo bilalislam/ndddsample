@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Initializers
+END
+ComponentRegistrar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/140/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Initializers/ComponentRegistrar.cs
+END
+NhInitializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Initializers/NhInitializer.cs
+END

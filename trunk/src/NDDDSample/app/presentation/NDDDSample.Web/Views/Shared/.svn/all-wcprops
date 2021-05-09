@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/Shared
+END
+Site.Master
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/Shared/Site.Master
+END
+Site.Master.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/Shared/Site.Master.designer.cs
+END
+Site.Master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/Shared/Site.Master.cs
+END
+Error.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web/Views/Shared/Error.aspx
+END

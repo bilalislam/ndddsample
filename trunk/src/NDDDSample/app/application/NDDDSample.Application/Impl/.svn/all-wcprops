@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/application/NDDDSample.Application/Impl
+END
+HandlingEventService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/application/NDDDSample.Application/Impl/HandlingEventService.cs
+END
+CargoInspectionService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/application/NDDDSample.Application/Impl/CargoInspectionService.cs
+END
+BookingService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/application/NDDDSample.Application/Impl/BookingService.cs
+END

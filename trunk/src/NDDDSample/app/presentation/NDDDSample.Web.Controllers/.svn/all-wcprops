@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers
+END
+MessageSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/MessageSource.cs
+END
+NDDDSample.Web.Controllers.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/NDDDSample.Web.Controllers.csproj
+END
+ErrorMessageViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/ErrorMessageViewModel.cs
+END
+HomeController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/142/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/HomeController.cs
+END
+ErrorController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/96/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/ErrorController.cs
+END
+BaseController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/105/trunk/src/NDDDSample/app/presentation/NDDDSample.Web.Controllers/BaseController.cs
+END

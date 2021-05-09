@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/103/trunk/src/RegisterApp/NDDDSample.RegisterApp/Log
+END
+LogFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/103/trunk/src/RegisterApp/NDDDSample.RegisterApp/Log/LogFactory.cs
+END
+ILog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/103/trunk/src/RegisterApp/NDDDSample.RegisterApp/Log/ILog.cs
+END
+Log4NetLoggerProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/103/trunk/src/RegisterApp/NDDDSample.RegisterApp/Log/Log4NetLoggerProxy.cs
+END

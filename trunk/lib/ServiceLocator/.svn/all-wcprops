@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/70/trunk/lib/ServiceLocator
+END
+CommonServiceLocator.WindsorAdapter.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/70/trunk/lib/ServiceLocator/CommonServiceLocator.WindsorAdapter.dll
+END
+Microsoft.Practices.ServiceLocation.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/70/trunk/lib/ServiceLocator/Microsoft.Practices.ServiceLocation.dll
+END
